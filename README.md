@@ -164,4 +164,9 @@ jdbc:h2:mem:shopping_cart_db
 ```
 
 In `/src/main/resources/application.properties` file it is possible to change both
-web interface url path, as well as the datasource url.
+web interface url path, as well as the datasource URL.
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</p>
+
